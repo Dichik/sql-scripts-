@@ -1,0 +1,10 @@
+INSERT INTO job_title(id,job_title_desc) VALUES (1,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.');
+INSERT INTO job_title(id,job_title_desc) VALUES (2,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.');
+INSERT INTO job_title(id,job_title_desc) VALUES (3,'Sed ante. Vivamus tortor. Duis mattis egestas metus.');
+INSERT INTO job_title(id,job_title_desc) VALUES (4,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.');
+INSERT INTO job_title(id,job_title_desc) VALUES (5,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Sque.');
+INSERT INTO job_title(id,job_title_desc) VALUES (6,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.');
+INSERT INTO job_title(id,job_title_desc) VALUES (7,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. ');
+INSERT INTO job_title(id,job_title_desc) VALUES (8,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante.');
+INSERT INTO job_title(id,job_title_desc) VALUES (9,'In congue. Etiam justo. Etiam pretium iaculis justo.');
+INSERT INTO job_title(id,job_title_desc) VALUES (10,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pe.');

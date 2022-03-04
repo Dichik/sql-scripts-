@@ -1,0 +1,1 @@
+UPDATE estimate SET naming = CONCAT(LENGTH(naming),': ',naming)

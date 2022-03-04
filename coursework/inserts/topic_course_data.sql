@@ -1,0 +1,17 @@
+INSERT INTO topic_course(topic_id,course_id) VALUES (12,10);
+INSERT INTO topic_course(topic_id,course_id) VALUES (11,4);
+INSERT INTO topic_course(topic_id,course_id) VALUES (20,8);
+INSERT INTO topic_course(topic_id,course_id) VALUES (10,6);
+INSERT INTO topic_course(topic_id,course_id) VALUES (15,3);
+INSERT INTO topic_course(topic_id,course_id) VALUES (8,10);
+INSERT INTO topic_course(topic_id,course_id) VALUES (19,3);
+INSERT INTO topic_course(topic_id,course_id) VALUES (5,9);
+INSERT INTO topic_course(topic_id,course_id) VALUES (3,8);
+INSERT INTO topic_course(topic_id,course_id) VALUES (18,2);
+INSERT INTO topic_course(topic_id,course_id) VALUES (5,7);
+INSERT INTO topic_course(topic_id,course_id) VALUES (4,10);
+INSERT INTO topic_course(topic_id,course_id) VALUES (18,10);
+INSERT INTO topic_course(topic_id,course_id) VALUES (16,2);
+INSERT INTO topic_course(topic_id,course_id) VALUES (13,5);
+INSERT INTO topic_course(topic_id,course_id) VALUES (9,4);
+INSERT INTO topic_course(topic_id,course_id) VALUES (9,5);

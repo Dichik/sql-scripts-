@@ -1,0 +1,13 @@
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryB1',5);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryC2',2);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryB1',8);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryC1',6);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryC1',9);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryA2',10);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryE1',8);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryC2',6);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryE2',8);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryE2',10);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryC2',8);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryE2',4);
+INSERT INTO category_course(category_id,course_id) VALUES ('categoryC1',8);

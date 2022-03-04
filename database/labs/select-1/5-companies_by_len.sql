@@ -1,0 +1,1 @@
+SELECT naming FROM companies WHERE LENGTH(naming) > 5

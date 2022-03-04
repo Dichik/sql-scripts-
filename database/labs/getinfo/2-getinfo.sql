@@ -1,0 +1,1 @@
+SHOW CREATE VIEW payment_treasury_companies

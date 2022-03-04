@@ -1,0 +1,1 @@
+SELECT * FROM estimate WHERE sum < 1000;

@@ -1,0 +1,1 @@
+SELECT AVG(sum) AS average_sum FROM estimate

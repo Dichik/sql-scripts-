@@ -1,0 +1,1 @@
+UPDATE payment_orders SET sum=sum+1000 ORDER BY RAND() LIMIT 1

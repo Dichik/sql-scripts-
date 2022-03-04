@@ -1,0 +1,1 @@
+SELECT * FROM estimate WHERE sum > 1000 AND EXISTS(SELECT * FROM estimate WHERE sum<1000)

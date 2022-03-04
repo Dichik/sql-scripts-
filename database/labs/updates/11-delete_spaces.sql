@@ -1,0 +1,1 @@
+UPDATE companies SET naming = TRIM(BOTH ' ' FROM naming)

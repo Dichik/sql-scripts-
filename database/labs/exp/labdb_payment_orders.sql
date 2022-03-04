@@ -1,0 +1,2 @@
+INSERT INTO labdb.payment_orders (id, cece_id, sum, directed_to, created_by, created_at) VALUES (2, 1, 123, 1, 1, '2021-11-23');
+INSERT INTO labdb.payment_orders (id, cece_id, sum, directed_to, created_by, created_at) VALUES (3, 2, 222, 1, 3, '2021-11-11');

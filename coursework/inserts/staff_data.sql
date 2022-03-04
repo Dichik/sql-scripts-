@@ -1,0 +1,15 @@
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (1,'Seth','Purvey',410.5,5,1);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (2,'Arlan','Catchpole',358.6,4,9);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (3,'Lilla','Burwin',448.5,0,10);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (4,'Carolyn','Birts',479,0,7);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (5,'Magdalen','Syer',370.1,4,6);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (6,'Tadeas','Gladman',494.1,4,2);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (7,'Dagmar','Servant',318.8,0,7);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (8,'Ryann','Wolsey',367.7,5,2);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (9,'Gloriane','O''Hare',488.6,4,6);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (10,'Ketti','Borless',423.6,0,7);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (11,'Thea','Tortoise',485.2,4,7);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (12,'Ferdinanda','Sedgwick',407.9,0,2);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (13,'Kanya','Gossipin',422.6,4,4);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (14,'Sax','Poulsen',366.4,5,9);
+INSERT INTO staff(id,first_name,second_name,salary,total_courses,job_title_id) VALUES (15,'Jude','Martt',443.9,0,7);

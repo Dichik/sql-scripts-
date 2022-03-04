@@ -1,0 +1,1 @@
+UPDATE cece SET naming = REVERSE(naming)

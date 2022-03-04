@@ -1,0 +1,1 @@
+ALTER VIEW payment_treasury_companies AS SELECT * FROM treasury

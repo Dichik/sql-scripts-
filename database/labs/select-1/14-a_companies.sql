@@ -1,0 +1,1 @@
+SELECT * FROM companies WHERE naming LIKE 'a%'

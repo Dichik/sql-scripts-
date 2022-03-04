@@ -1,0 +1,1 @@
+SELECT * FROM treasury WHERE naming REGEXP '^M'

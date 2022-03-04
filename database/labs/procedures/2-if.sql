@@ -1,0 +1,1 @@
+SELECT id, sum, IF(sum>200, 'Багатий', 'Бідний') AS cond FROM payment_orders

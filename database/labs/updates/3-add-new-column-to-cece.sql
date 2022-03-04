@@ -1,0 +1,1 @@
+ALTER TABLE cece ADD COLUMN description VARCHAR(45) AFTER naming;

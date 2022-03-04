@@ -1,0 +1,1 @@
+SELECT sum FROM estimate WHERE naming IS NOT NULL

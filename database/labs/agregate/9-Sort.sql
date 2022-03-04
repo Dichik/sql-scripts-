@@ -1,0 +1,1 @@
+SELECT naming, sum FROM estimate ORDER BY sum DESC

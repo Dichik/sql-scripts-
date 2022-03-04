@@ -1,0 +1,1 @@
+SELECT cece_id, SUM(sum) AS total_sum FROM estimate GROUP BY cece_id

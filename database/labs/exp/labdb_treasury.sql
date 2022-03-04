@@ -1,0 +1,1 @@
+INSERT INTO labdb.treasury (id, naming, location) VALUES (1, 'Київське казначейство', 'Шулявка');

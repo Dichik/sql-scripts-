@@ -1,0 +1,1 @@
+SELECT * FROM estimate_change ec INNER JOIN estimate e on e.id = ec.estimate_id

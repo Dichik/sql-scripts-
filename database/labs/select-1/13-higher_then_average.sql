@@ -1,0 +1,1 @@
+SELECT * FROM estimate WHERE sum >(SELECT avg(sum) FROM estimate);

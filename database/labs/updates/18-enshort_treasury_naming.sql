@@ -1,0 +1,1 @@
+UPDATE treasury SET naming = CONCAT(LEFT(naming,3),'.')

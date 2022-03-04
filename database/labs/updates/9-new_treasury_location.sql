@@ -1,0 +1,1 @@
+UPDATE treasury SET location = 'Вулиця Грушевського 18' WHERE naming = 'Груша'

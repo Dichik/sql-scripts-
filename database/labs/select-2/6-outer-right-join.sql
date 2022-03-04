@@ -1,0 +1,1 @@
+SELECT * FROM payment_orders p RIGHT OUTER JOIN companies c on p.created_by = c.id

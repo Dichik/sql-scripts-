@@ -1,0 +1,1 @@
+DELETE FROM payment_orders WHERE DATEDIFF(created_at,CURDATE())>0;

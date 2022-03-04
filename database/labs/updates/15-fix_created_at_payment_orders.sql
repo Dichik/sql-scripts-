@@ -1,0 +1,1 @@
+UPDATE payment_orders SET created_at = NOW() WHERE created_at < NOW()

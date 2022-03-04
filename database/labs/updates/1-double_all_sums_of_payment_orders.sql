@@ -1,0 +1,1 @@
+UPDATE payment_orders SET sum = sum*2;

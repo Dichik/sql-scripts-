@@ -1,0 +1,1 @@
+DELETE FROM estimate WHERE cece_id = 3

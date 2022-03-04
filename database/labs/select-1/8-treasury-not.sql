@@ -1,0 +1,1 @@
+SELECT * FROM treasury WHERE NOT location = 'Проспект Перемоги'

@@ -1,0 +1,1 @@
+DELETE FROM treasury WHERE naming = 'Грошиська' AND location = 'Хрещатик'

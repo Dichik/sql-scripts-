@@ -1,0 +1,1 @@
+SELECT SUM(sum) FROM payment_orders WHERE cece_id = 2

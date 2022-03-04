@@ -1,0 +1,15 @@
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (1,14,30,29);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (2,19,16,14);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (3,4,44,28);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (4,10,4,11);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (5,7,28,22);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (6,20,8,23);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (7,6,7,19);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (8,0,43,21);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (9,9,4,10);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (10,11,43,20);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (11,19,22,4);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (12,17,4,17);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (13,9,7,7);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (14,20,22,30);
+INSERT INTO mark(id,mark,student_id,activity_id) VALUES (15,10,26,7);

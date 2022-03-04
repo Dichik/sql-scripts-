@@ -1,0 +1,1 @@
+SELECT * FROM payment_orders WHERE sum BETWEEN 100 AND 1000

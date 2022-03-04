@@ -1,0 +1,1 @@
+SELECT * FROM companies WHERE UCASE(LEFT(naming,1)) = LEFT(naming,1)

@@ -1,0 +1,1 @@
+SELECT t.naming, c.naming, p.sum FROM payment_orders AS p, treasury AS t, companies AS c;

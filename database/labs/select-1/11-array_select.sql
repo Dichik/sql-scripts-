@@ -1,0 +1,1 @@
+SELECT * FROM companies WHERE naming in ('Apple', 'Google', 'Microsoft')

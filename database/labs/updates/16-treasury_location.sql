@@ -1,0 +1,1 @@
+UPDATE treasury SET location = REPLACE(location, 'Вулиця', 'Проспект');

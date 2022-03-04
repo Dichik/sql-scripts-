@@ -1,0 +1,1 @@
+SELECT e.naming, c.naming FROM estimate AS e, cece AS c

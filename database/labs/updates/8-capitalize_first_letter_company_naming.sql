@@ -1,0 +1,1 @@
+UPDATE companies SET naming = CONCAT(UCASE(LEFT(naming, 1)), LCASE(SUBSTRING(naming, 2)))

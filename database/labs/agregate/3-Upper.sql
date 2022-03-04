@@ -1,0 +1,1 @@
+UPDATE companies SET location = CONCAT(UPPER(LEFT(location,1)),LOWER(SUBSTRING(location,2)))

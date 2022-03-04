@@ -1,0 +1,1 @@
+ALTER TABLE cece MODIFY description VARCHAR(20);
